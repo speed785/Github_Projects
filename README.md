@@ -1,6 +1,13 @@
-HTML-Projects
-For those reading, this repository will consist of my ongoing HTML Projects for my class and soon to be personal projects.
+Lab 1 Instructions
 
-Thank you for taking the time to review or look at my work.
-
--James Dumitru
+<!DOCTYPE html>
+<html lang=“en”>
+<head>
+	<meta charset=“UTF-8”>
+	<title>ITMD-361 Internet Technologies and Web Design</title>
+</head>
+<body>
+  <p>&amp; Hello world. This is my first website!</p>
+  <p>Instructions: rewrite this page by adding a few sentences about yourself. Add a heading. Post it to your basecamp</p>
+</body>
+</html>
