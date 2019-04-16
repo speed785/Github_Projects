@@ -1,4 +1,7 @@
-Lab 1 Instructions
+Live Link : https://speed785.github.io/ITMD-361-Lab1/
+
+#Lab 1 Instructions
+
 
 <!DOCTYPE html>
 <html lang=“en”>
