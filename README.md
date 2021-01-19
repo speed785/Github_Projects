@@ -1,5 +1,7 @@
 Live Link : https://speed785.github.io/ITMD-361-Lab1/
 
+## Outdated, New one coming soon
+
 #Lab 1 Instructions
 
 
